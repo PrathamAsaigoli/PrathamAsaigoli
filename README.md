@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamasaigoli&label=Profile%20views&color=0e75b6&style=flat" alt="prathamasaigoli" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prathamasaigoli" target="blank"><img src="https://img.shields.io/twitter/follow/prathamasaigoli?logo=twitter&style=for-the-badge" alt="prathamasaigoli" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/prathamasaigoli](https://www.linkedin.com/in/pratham-asaigoli-b07356239/)" target="blank"><img src="https://img.shields.io/twitter/follow/prathamasaigoli?logo=twitter&style=for-the-badge" alt="prathamasaigoli" /></a> </p>
 
 - 🤝 I’m looking for help with **Python Programming**
 
