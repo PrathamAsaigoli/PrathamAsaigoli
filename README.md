@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Python Programming**
 
-- 💬 Ask me about **C ,C++, Python , Java, HTML, CSS, JS, Photoshop, Premiere-Pro**
+- 💬 Ask me about **Python, Deep Learning, Data Science, HTML, CSS, JS, Photoshop, Premiere-Pro**
 - 📫 How to reach me **prathamva12@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SQ7pSUT25tWbWZRjYGBiWWWdlXu8ntE3/view?usp=drive_link](https://drive.google.com/file/d/1SQ7pSUT25tWbWZRjYGBiWWWdlXu8ntE3/view?usp=drive_link)
